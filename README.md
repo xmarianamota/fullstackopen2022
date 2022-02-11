@@ -3,7 +3,7 @@
 This course serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL.
 This repository is used to submit Full Stack Open 2022 exercises.
 
-Full course description can [be found here](https://fullstackopen.com/)
+Full course description can [be found here.](https://fullstackopen.com/)
 
 ## Course content
 
